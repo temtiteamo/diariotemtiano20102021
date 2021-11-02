@@ -1,0 +1,133 @@
+---
+title: "Diario Temtiano edición 20.10.2021"
+date: "2021-10-20"
+lang: es-es
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+github-repo: temtiteamo/diariotemtiano20102021
+description: "Mucho texto acerca de un extenso y diverso tramo de la Historia Temtiana."
+header-includes:
+  - \usepackage{fancyhdr}
+  - \usepackage{lipsum}
+  - \pagestyle{plain}
+  - \fancyhead[CO,CE]{\thepage}
+  - \fancyfoot[LE,RO]{\thepage}
+---
+
+# Notas de la edición {.unnumbered}
+
+**Diario Temtiano** edición 20.10.2021
+
+## Novedades en esta edición {.unnumbered}
+
+-   Corregido el uso de los saltos de linea a lo largo de toda la obra.
+
+-   Intercambiados algunos gentilicios: cuando se trata de referirse a los anons pertenecientes a Temti o vinculados al sitio ya no es solamente *"temtitero"* el gentilicio que se utiliza, sino que ahora también aparecen otros, como temtero, temtón, temtineitor, temtiano, etc., etc.. De acuerdo al contexto, algunos predominan constantemente, y otros son muy poco comunes por ser más circunstanciales.
+
+-   Modificado el apartado *"Más sobre Diario Temtiano"*; donde se actualizó *"La historia"* con la llegada de Diario Temtiano a www.Temti.net, y donde también se agregaron a *"Agradecimientos"* las gracias correspondientes a las plataformas donde Diario Temtiano se publicó.
+
+-   Resaltado el término *"historia temtiana"* como nombre propio, de modo que ahora aparece con sus iniciales mayúsculas, así: Historia Temtiana.
+
+-   Inaugurado un nuevo capítulo, *”Las inhibidas andanzas bajo la apta nueva normalidad (Séptimo capítulo)”*.
+
+-   Agregados a la obra tres subcapítulos más: *”La tierra de mensajes intermitentes (Sexto capítulo, subcapítulo IX)”*, *”La parcial pero suficiente reanudación (Séptimo capítulo, subcapítulo I)”*, *”El tambaleante festival de cepillos (Séptimo capítulo, subcapítulo II)”*. 
+
+## Cambios previstos para la próxima edición {.unnumbered}
+
+-   Seguir poniéndose al día.
+
+-   Continuar corrigiendo errores.
+
+# Más sobre Diario Temtiano {.unnumbered}
+
+¿La explicación podría ser peor que la incertidumbre? Intentémoslo!
+
+Antes de continuar con la obra en sí y comenzar a hablar en código, más, aunque ni de cerca todo, sobre Diario Temtiano.
+
+### Contenido {.unnumbered}
+
+Diario Temtiano es una obra literaria que trata especialmente sobre Temti, donde partiendo desde la fecha del 17.01.2021, en orden cronológico se desarrollan interpretaciones de los antecedentes que protagonizaron la Historia Temtiana; sinónimo de lo ocurrido en torno a Temti, sus usuarios, su identidad, y lo relacionado a ellos.
+
+Está conformado por un prefacio, una introducción, varios capítulos que se desglosan en subcapítulos, y un desenlace.
+
+### Actualizaciones {.unnumbered}
+
+La obra, mediante la publicación de ediciones, las cuales son identificadas con la fecha de las mismas, se actualiza cada tanto para continuar mejorando su contenido. Esto es, corrigiendo errores, incorporando detalles falten y deban ser incluidos, o también reformulando partes que necesiten ser adaptadas, además de también continuar poniéndose al día con los últimos antecedentes.
+
+Salvo que un futuro cambio implique lo contrario, en <https://temtiteamo.github.io/diariotemtiano> siempre se podrá encontrar la edición más reciente y actualizada, por lo que es recomendado en toda ocasión ingresar allí por lo anterior mencionado.
+
+La frecuencia de dichas publicaciones depende mayoritariamente del ritmo al cual se esté desarrollando la Historia Temtiana. Aunque a veces hay excepciones, generalmente Diario Temtiano va unos cuantos días atrasado de lo que esté sucediendo en la actualidad, así que los últimos textos no suelen corresponder inmediatamente a lo más reciente.
+
+### El porqué {.unnumbered}
+
+Como se menciona en el prefacio y en uno de los tantos subcapítulos de Diario Temtiano, el gran disparador para que este surgiera, fue que durante una época bastante particular se sintiera la prolongada ausencia de literatura que interpretara lo que aconteciera en la escena temtiana de ese entonces. Concretamente, esta se padeció notablemente un tanto antes y después del instante que Investigator anunció que de momento no iba a continuar ampliando su obra, Crónicas Temtianas, la cual sí cumplía esa función, mientras que aún seguían ocurriendo una cantidad importante de sucesos y la costumbre de plasmarlos en texto de una manera medianamente ordenada y atractiva se había perdido prácticamente por completo.
+
+Luego de que todo eso se mantuviera por un buen rato, porque el contexto único lo permitiría y ofrecería las condiciones para, pero también gracias a los individuos responsables de su construcción en el pasado y en ese presente, esta historia dentro de la Historia Temtiana comenzó a concretarse...
+
+### La historia {.unnumbered}
+
+Para que Diario Temtiano sea lo que hoy es, desde su nacimiento hasta la actualidad, transitó diferentes etapas, bastantes cambios y adaptaciones a la realidad en la que se encuentra. Muchas de ellas, aunque no todas ni del todo detalladas, se encuentran referenciadas en la misma obra.
+
+#### Como una continuación de Crónicas Temtianas en Temti.net {.unnumbered}
+
+Dentro de Temti.net, en el tem "Importante para los HIXELIANOS", el cual había sido creado por Investigator para exponer una vez más su obra por completo y también anunciar que esta no iba a ser continuada por el momento, a principios de febrero de 2021 sin introducción alguna ni explicación acerca de qué o quién se trataba, comenzaron a aparecer una serie de textos, específicamente capítulos pertenecientes a algo llamado "post-testamento". En estos, como el nombre mencionado referencia, los antecedentes posteriores a el primer gran cierre de la página eran relatados en orden cronológico.
+
+Lo mismo de esa primera ocasión, sumándole el rápido apoyo del canal oficial de Temti en Telegram, volvió a ocurrir unos pocos días después, sin mayores repercusiones. Así continuó hasta que tras la publicación de cerca de seis capítulos en total, algunos anones contestaron con una reducida serie de criticas respecto a la perspectiva narrativa. Dichas devoluciones fueron prontamente respondidas, y también a partir de ellas pronto en los textos posteriores se realizaron varios ajustes para poder subsanar uno de los aspectos que no terminaban de convencer.
+
+Los textos siguieron siendo publicados con una frecuencia de 2-4 días en ese mismo tem, por partes debido al escueto límite de caracteres, manteniendo la tendencia y a la vez yendo unos cuantos días atrás de lo que estaba aconteciendo en la actualidad, hasta incluso abarcar el periodo posterior al de la reapertura del antro, capítulos pertenecientes al en ese momento titulado "post-resurgimiento". Esto persistió de similar manera hasta que un nuevo cierre del sitio, el 16 de febrero de 2021, imposibilitó seguir continuando con la difusión allí.
+
+#### La iniciativa independizandose en Temti.net {.unnumbered}
+
+Un día después, Temti.net volvió a funcionar, con un reinicio completo que luego fue sucedido de otro, lo que conllevó a la eliminación del tem donde se estaba llevando a cabo la difusión. Más adelante ya con el panorama estabilizado, el mismo proyecto, aún sin un titulo definido y todavía manteniendo el anonimato de su autoría, se fundaría un tem propio, titulado "Avances del diario intimo crónicas temtianas" para continuar publicando más capítulos que se fueran acercando a la actualidad, además de ir respondiendo críticas y dudas, comentar datos de interés e incluso ir adelantando lo que pudiera estar por venir.
+
+En dicho tem, que obtuvo un sticky oficial rápidamente, a la par de la difusión, los textos se convirtieron en algo más que eso, fueron evolucionando en muchos sentidos.
+
+Primero, logró mantener el suficiente buen ritmo como para alcanzar a la actualidad en su momento, y de esa forma pasar a seguir los nuevos antecedentes con solo unos pocos días de diferencia. Esto implicó que luego bajara la frecuencia de publicación, haciendo que esta ya no tuviera la misma regularidad que en sus comienzos.
+
+Segundo, la obra encontró su titulo definitivo, Diario Temtiano, el cual hace referencia a las primeras críticas que recibieron sus textos por tener una narrativa de "diario íntimo", al estilo de ir informando las novedades cronológicamente cual diario noticiero, y a su principal trama que es Temti. 
+
+Esa última importante determinación también vino de la mano con un considerable cambio en las entregas: los flamantes capítulos dejaron de publicarse por partes dividas, para serlo por completo junto a todos los anteriores, en una página de Pastebin, lo cual ocurrió por primera vez con la edición 26.02.2021. De esa manera, además de alejarse más aún de ser una continuación de Crónicas Temtianas y ganar identidad propia como obra, la nueva modalidad facilitó un montón de cuestiones, tanto para la autoría y para los lectores.
+
+Tras tres ediciones, debido a problemas con la que venía siendo utilizada, la plataforma elegida sería cambiada por Rentry.co, que por sus condiciones resultó muy util para el formato de los textos.
+
+Siendo lo mencionado las transformaciones más significativas, mientras se acumulaban publicaciones, Diario Temtiano también continuó progresando bastante respecto a su contenido, balanceó mejor los temas tratados, corrigió errores de las partes más viejas de la obra, reorganizó y mejoró su estructura, etc..
+
+#### Hospedaje de Diario Temtiano en Arged.ga, Voxed.club y Tsubit.com {.unnumbered}
+
+El 2 de mayo de 2021 Temti.net como plataforma de micropost anónima cerraría una vez más, y como se mantuvo en esa condición por demasiados días y la Historia Temtiana se seguía desarrollando a muy buen ritmo, para Diario Temtiano poder difundir las nuevas ediciones, le fue necesario crear una publicación propia en dos páginas diferentes, concretamente en Arged.ga y Voxed.club, entre varias razones debido mayormente a su cercanía.
+
+Ambas pasaron a cumplir idénticamente la función del tem anterior, y la obra siguió por las vías que venía, con la misma inclinación de ir mejorando el contenido y ponerse al día. Aparte de eso, también hubieron un par de aspectos fuera de lo común.
+
+Debido a un problema técnico en uno de los dos sitios, respectivamente en Voxed.club, donde la etiqueta de OP del vox no aparecía, este se identificó como "temtiteamo", diciendo no ser escritor o creador de la obra sino portavoz de la misma, aún persistiendo con el misterio respecto a lo primero.
+
+Además, también hubo un nuevo cambio en la plataforma usada para divulgar las nuevas ediciones, porque a causa de limitaciones técnicas, Rentry.co fue reemplazada por Bookdown, la cual comenzó a ser usada en temtiteamo.github.io, con la edición 27.05.2021. Esta fue la primera de todas en no ser redifundida en el canal oficial de Temti en Telegram.
+
+Con la reapertura al público de Tsubit.com, no tanto por necesidad sino más bien por las antiguas relaciones entre temtiteros y tsubiteros, Diario Temtiano también se expandió para comentar sus novedades en un sitio más, creando allí "Ediciones Diario Temtiano en Tsubit.com". Casualmente no mucho tiempo luego de eso, Voxed.club cerraría sin previo aviso y por lo tanto el vox en esa página se perdería. También, en Arged.ga la publicación de la obra sería eliminada por desconocidas razones, quedando así únicamente la de la primera mencionada. Sin embargo, llegado ese punto la Historia Temtiana se había enlentecido tanto que solo fueron difundidas únicamente dos ediciones, por lo que luego de la segunda, la edición 01.06.2021, el tsub quedó inactivo hasta que varias semanas después fue desaparecido debido a una importante actualización en el antro.
+
+#### Traslado de Diario Temtiano a Rouzer.fun y reincorporación a www.Temti.net {.unnumbered}
+
+Tres meses luego de la última edición, las importantes novedades de la Historia Temtiana que se daban con www.Temti.net aún sin la posibilidad de publicar en ella, provocaron la reaparición de Diario Temtiano en la escena de los clones, concretamente en Rouzer.fun.
+
+Allí, pese a las enemistades del pasado entre temtiteros y rozeros, fue creado el rouz "Ediciones Diario Temtiano en tierras rozadas", junto a la edición 01.09.2021, prácticamente en las mismas condiciones que en los tres sitios anteriores, orientado a la difusión de nuevas ediciones, consultas y demás.
+
+A partir de ese entonces, la obra reincorporó parcialmente el apoyo del canal oficial de Temti en Telegram con una mención en la descripción del mismo, y se ha continuado desarrollando de la misma manera, llegando al público principalmente desde Rouzer.fun.
+
+Paralelamente a ello, se fueron dando algunos cambios en www.Temti.net, y llegado un punto volvió a ser posible que sus visitantes pudieran exponer sus contenidos allí. Tanto en el momento que no estaban funcionales los comentarios, como cuando después que estos fueron habilitados, fue difundida la edición 12.10.2021 de Diario Temtiano, por parte de un anon distinto a su usual portavoz. Esta última, aún cuando un poco después se creó un espacio general para la obra y no especifico para una edición concreta, se mantiene a día de hoy con un sticky en un sitial de privilegio dentro de su antro de origen. 
+
+
+### Agradecimientos {.unnumbered}
+
+Desde la autoría de la obra, enormes gracias a quienes colaboraron de una forma u otra con Diario Temtiano.
+
+Especiales gracias a los temtiteros, temtineros, temtianos, temteros, timteros, temtistas, temtineitors, etc. etc., por contribuir y construir la Historia Temtiana, así como también críticar, sugerir, e interesarse en Diario Temtiano. 
+
+Especiales gracias a Investigator por Crónicas Temtianas y todo lo que estas significan.
+
+Especiales gracias a temtiteamo, A., y al canal oficial de Temti en Telegram por la colaboración extraordinaria en la difusión. 
+
+Especiales gracias a las plataformas a través de las cuales se publicó la obra en sí (Pastebin.com, Rentry.co, Bookdown, Github.com) y a sus responsables por ofrecer las condiciones para que Diario Temtiano pueda estar disponbile en linea.
+
+Especiales gracias a los tantos sitios (Temti.net, Arged.ga, Voxed.club, Tsubit.com, Rouzer.fun), a sus administradores, moderadores, y usuarios, que le permitieron a Diario Temtiano tener un lugar para difundir sus novedades.
+
+
